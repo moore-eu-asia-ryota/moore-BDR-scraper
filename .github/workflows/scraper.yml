@@ -1,6 +1,5 @@
 name: Update RSS Feed
 
-# This workflow runs daily (you can adjust the cron expression) and also supports manual runs.
 on:
   schedule:
     - cron: '0 0 * * *'  # runs at midnight UTC every day
@@ -33,17 +32,27 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      # (Optional) Step: List files to verify rss.xml is created in the repo root
-      - name: List files in repo root (debug)
+      # (Optional) Debug: List files in the repo root to verify rss.xml is created
+      - name: List files in repo root
         run: ls -la
 
-      # Step 5: Commit and push the updated rss.xml (only if the file exists)
+      # Step 5: Copy rss.xml to a txt file (rss.txt)
+      - name: Copy RSS XML to TXT
+        run: |
+          if [ -f rss.xml ]; then
+            cp rss.xml rss.txt
+          else
+            echo "rss.xml not found, cannot create rss.txt"
+            exit 1
+          fi
+
+      # Step 6: Commit and push the updated files (rss.xml and rss.txt)
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           if [ -f rss.xml ]; then
-            git add rss.xml
+            git add rss.xml rss.txt
             git commit -m "Update RSS feed [skip ci]" || echo "No changes to commit"
             git push origin HEAD:main
           else
