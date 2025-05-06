@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sk</language>
-    <lastBuildDate>Mon, 05 May 2025 00:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 00:51:14 +0000</lastBuildDate>
     <item>
       <title>Ako posúdiť, či ste potenciálnym kandidátom na daňovú kontrolu v oblasti transferového oceňovania? Skúste si spraviť nasledovný test!</title>
       <link>https://www.moore-bdr.sk/ako-posudit-ci-ste-potencialnym-kandidatom-na-danovu-kontrolu-v-oblasti-transferoveho-ocenovania-skuste-si-spravit-nasledovny-test/</link>
@@ -1763,7 +1763,7 @@
     <item>
       <title>Seminár k transakčnej dani</title>
       <link>https://www.moore-bdr.sk/seminar-k-transakcnej-dani/</link>
-      <description>Transakčná daň mení spôsob, akým firmy pohybujú peniazmi. a nie je to zmena k lepšiemu.Od jej zavedenia sledujeme, že firemné správanie sa mení – podniky minimalizujú počet prevodov, spájajú platby, upravujú rytmus cash flow. Účtovníci kontrolujú výpisy častejšie než predtým. Manažéri sa pýtajú, či sa platba nedá nastaviť inak.Z obyčajného prevodu sa stalo rozhodnutie. Dnes je to náklad, ktorý si treba premyslieť. Už nie je jedno, ako často platíte alebo aký účet používate. To, čo predtým bežalo automaticky, dnes vyvoláva otázniky – a niekedy aj zbytočné straty.Boli sme pozvaní na odborný seminár, ktorý organizovala Asociácia priemyselných zväzov a dopravy kde sme boli pozvaní spolu s odborníkom z Tatra banky. Spoločne sme tam vysvetlili presne to, čo firmám najviac chýba – zrozumiteľné princípy výpočtu dane, praktické príklady z bankovej praxe, rozdiely medzi typmi účtov, subjektov a transakcií. Vďaka Igorovi Rusnákovi, Martinovi Kiňovi a Petrovi Bilčíkovi mnohé firmy konečne dostali odpovede, ktoré sa inde hľadajú len veľmi ťažko.KONTAKTUJTE NÁSNeváhajte nás kontaktovať prostredníctvom kontaktného formulára.Naši špecialisti Vám radi pomôžuKONTAKTNÝ FORMULÁRAký užitočný bol tento článok?Odoslať hodnoteniePriemerné hodnotenie5/ 5. Počet hlasov:1Zatiaľ žiadne hlasy! Buďte prvý, kto ohodnotí tento príspevok.</description>
+      <description>Transakčná daň mení spôsob, akým firmy pohybujú peniazmi. a nie je to zmena k lepšiemu.Od jej zavedenia sledujeme, že firemné správanie sa mení – podniky minimalizujú počet prevodov, spájajú platby, upravujú rytmus cash flow. Účtovníci kontrolujú výpisy častejšie než predtým. Manažéri sa pýtajú, či sa platba nedá nastaviť inak.Z obyčajného prevodu sa stalo rozhodnutie. Dnes je to náklad, ktorý si treba premyslieť. Už nie je jedno, ako často platíte alebo aký účet používate. To, čo predtým bežalo automaticky, dnes vyvoláva otázniky – a niekedy aj zbytočné straty.Boli sme pozvaní na odborný seminár, ktorý organizovala Asociácia priemyselných zväzov a dopravy kde sme boli pozvaní spolu s odborníkom z Tatra banky. Spoločne sme tam vysvetlili presne to, čo firmám najviac chýba – zrozumiteľné princípy výpočtu dane, praktické príklady z bankovej praxe, rozdiely medzi typmi účtov, subjektov a transakcií. Vďaka Igorovi Rusnákovi, Martinovi Kiňovi a Petrovi Bilčíkovi mnohé firmy konečne dostali odpovede, ktoré sa inde hľadajú len veľmi ťažko.KONTAKTUJTE NÁSNeváhajte nás kontaktovať prostredníctvom kontaktného formulára.Naši špecialisti Vám radi pomôžuKONTAKTNÝ FORMULÁRAký užitočný bol tento článok?Odoslať hodnoteniePriemerné hodnotenie3.5/ 5. Počet hlasov:2Zatiaľ žiadne hlasy! Buďte prvý, kto ohodnotí tento príspevok.</description>
       <pubDate>Fri, 25 Apr 2025 14:52:20 +0000</pubDate>
     </item>
     <item>
